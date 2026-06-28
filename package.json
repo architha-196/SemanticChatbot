@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "googleapis": "^159.0.0",
+    "node-fetch": "^2.7.0",
+    "readline": "^1.3.0",
+    "xlsx": "^0.18.5"
+  },
+  "name": "semantic-chatbotf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert_complete_csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
